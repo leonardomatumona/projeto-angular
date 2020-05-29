@@ -1,0 +1,15 @@
+h2 {
+     color: blue;
+}
+
+main{
+    width: 500px;
+    border: 1px solid gray;
+    border-radius:10px;
+    padding: 10px;
+    margin: 10px;
+    background-color: cornflowerblue;
+}
+.imagem{
+    max-width: 100%;
+}
